@@ -6,5 +6,4 @@ copy the file path:
 
 run the code:
 <img width="1074" height="816" alt="image" src="https://github.com/user-attachments/assets/055ab0a1-0a27-4958-86d9-d19e4f7ec311" />
-
 <img width="1079" height="725" alt="Screenshot_20250822_230942" src="https://github.com/user-attachments/assets/02cfc05a-ecf0-43bb-8e27-58fee5aa8eef" />
